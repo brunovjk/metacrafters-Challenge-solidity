@@ -1,8 +1,11 @@
 # Frontend challenge
 
 cd frontend
+
 yarn
+
 yarn dev
+
 
 # Hardhat Boilerplate
 
