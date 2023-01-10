@@ -1,3 +1,12 @@
+# Frontend challenge
+
+cd frontend
+
+yarn
+
+yarn dev
+
+
 # Hardhat Boilerplate
 
 This repository contains a sample project that you can use as the starting point
